@@ -1,12 +1,12 @@
 ---
-title: Home Page
+Program Star Point : Home Page
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Arturo's CM3 website.
 
-## A smaller level Heading
+## Introduction to Programming 
 
-### And even smaller
+### Day 1
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
 
@@ -20,7 +20,7 @@ In this new para we create a numbered list using numbers.
 1. first item
 2. second item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. And you can go to [ChatGPT](https://chat.openai.com).
 
 You can write code by using triple-ticks:
 
