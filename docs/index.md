@@ -1,5 +1,5 @@
 ---
-Program Star Point : Home Page
+Program Start Point: Home Page
 ---
 
 This is the home page of Arturo's CM3 website.
